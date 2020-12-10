@@ -39,4 +39,4 @@ reading materials regarding AI
 * [인공지능과 끝말잇기 대결](https://youtu.be/9HygBYFNaZA)
 * https://github.com/deepmind/dm_hard_eight
 * [AI tools to detect harmful content](https://ai.facebook.com/blog/heres-how-were-using-ai-to-help-detect-misinformation/)
-
+* [SKT 인공지능 돌봄](https://www.sktinsight.com/125356)
