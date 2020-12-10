@@ -32,3 +32,4 @@ reading materials regarding AI
 * [AI predicts future](https://worldin.economist.com/article/17521/edition2020artificial-intelligence-predicts-future)
 * [manufacturing](http://www.thelec.kr/news/articleView.html?idxno=6017)
 * [self-driving car](https://medium.com/lyftself-driving/virtual-validation-a-scalable-solution-to-test-navigate-the-autonomous-road-ahead-e1a7d1fe1538)
+* [블리자드 “AI 덕분에 오버워치·히오스 악성 채팅 줄었다”](https://m.gamemeca.com/amp/view.php?gid=1648794)
