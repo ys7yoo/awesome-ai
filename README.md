@@ -14,3 +14,8 @@ reading materials regarding AI
 ## AI and democracy
 
 
+## AI and reading
+* [Machines Beat Humans on a Reading Test. But Do They Understand?](https://www.quantamagazine.org/machines-beat-humans-on-a-reading-test-but-do-they-understand-20191017/) by Quantamagazine
+
+
+
