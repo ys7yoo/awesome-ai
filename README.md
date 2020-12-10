@@ -12,6 +12,7 @@ reading materials regarding AI
 ## AI and Jobs
 
 ## AI and Law
+* [테크, 法 그리고 인간](http://it.chosun.com/m/svc/article.html?contid=2020080300309&utm_source=undefined&utm_medium=unknown&utm_campaign=itchosun)
 
 ## AI and Democracy
 * [AI, Democracy and Elections](https://youtu.be/_b-kXQo-KjY?list=PLpGHT1n4-mAv0KFPg0dZXOL7_qHUlxj2Z) from Stanford HAI 2019 Fall Conference
