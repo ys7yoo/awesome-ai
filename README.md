@@ -14,7 +14,7 @@ reading materials regarding AI
  * [AI "공무원 25% 짐싸!" 외교부가 가장 위태롭다](https://mnews.joins.com/article/23888951?cloc=joongang-mhome-Group4#home)
  * [김주하 AI 등장하고, 27세 메인앵커는 사표…아나운서, 어디로 가나](https://www.chosun.com/national/weekend/2020/10/10/MSWVZVODFFGOJKWT2YUPXXWZUU/)
  * [KB의 실험… AI에 인사 맡겼더니, 인사불만이 사라졌다](https://www.chosun.com/economy/stock-finance/2020/10/05/E6TXF7CYAJEPTDKVWWLTPOOLVY/)
-
+ * [바둑계에서 인공지능을 악용한 부정 사례](https://www.chosun.com/national/2020/11/20/2Y3WOD4S4JFNZEA43YQ3LIL7FA/)
 
 ## AI and Law
 * [테크, 法 그리고 인간](http://it.chosun.com/m/svc/article.html?contid=2020080300309&utm_source=undefined&utm_medium=unknown&utm_campaign=itchosun)
