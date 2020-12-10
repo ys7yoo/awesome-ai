@@ -21,10 +21,11 @@ reading materials regarding AI
 
 ## AI and Democracy
 * [AI, Democracy and Elections](https://youtu.be/_b-kXQo-KjY?list=PLpGHT1n4-mAv0KFPg0dZXOL7_qHUlxj2Z) from Stanford HAI 2019 Fall Conference
-
+* https://mitsloan.mit.edu/ideas-made-to-matter/why-finance-deploying-natural-language-processing
 
 ## AI and Reading
 * [Machines Beat Humans on a Reading Test. But Do They Understand?](https://www.quantamagazine.org/machines-beat-humans-on-a-reading-test-but-do-they-understand-20191017/) by Quantamagazine
+*
 
 ## Cool AI Applications
 * [emails](https://99percentinvisible.org/episode/youve-got-enron-mail/)
