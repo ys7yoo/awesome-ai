@@ -13,6 +13,7 @@ reading materials regarding AI
 ## AI and law
 
 ## AI and democracy
+* [AI, Democracy and Elections](https://youtu.be/_b-kXQo-KjY?list=PLpGHT1n4-mAv0KFPg0dZXOL7_qHUlxj2Z) from Stanford HAI 2019 Fall Conference
 
 
 ## AI and reading
