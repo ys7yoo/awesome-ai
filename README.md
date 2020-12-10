@@ -31,3 +31,4 @@ reading materials regarding AI
 * Instagram explore: [link1](https://venturebeat.com/2019/11/25/facebook-details-the-ai-technology-behind-instagram-explore/), [link2](https://ai.facebook.com/blog/powered-by-ai-instagrams-explore-recommender-system)
 * [AI predicts future](https://worldin.economist.com/article/17521/edition2020artificial-intelligence-predicts-future)
 * [manufacturing](http://www.thelec.kr/news/articleView.html?idxno=6017)
+* [self-driving car](https://medium.com/lyftself-driving/virtual-validation-a-scalable-solution-to-test-navigate-the-autonomous-road-ahead-e1a7d1fe1538)
