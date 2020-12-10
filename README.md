@@ -35,3 +35,4 @@ reading materials regarding AI
 * [self-driving car](https://medium.com/lyftself-driving/virtual-validation-a-scalable-solution-to-test-navigate-the-autonomous-road-ahead-e1a7d1fe1538)
 * [블리자드 “AI 덕분에 오버워치·히오스 악성 채팅 줄었다”](https://m.gamemeca.com/amp/view.php?gid=1648794)
 * https://blogs.nvidia.com/blog/2020/11/25/i-am-ai-retail-video/?ncid=so-twit-42042-vt23&linkId=100000021607620#cid=ix04_so-twit_en-us
+* [인공지능과 끝말잇기 대결](https://youtu.be/9HygBYFNaZA)
