@@ -6,6 +6,7 @@ reading materials regarding AI
 
 
 ## AI and future
+* [AI will supercharge science](https://worldin.economist.com/article/17385/edition2020demis-hassabis-predicts-ai-will-supercharge-science) by Demis Hassabis
 * [The Rise of Artificial Intelligence](https://www.newyorker.com/books/double-take/sunday-reading-the-rise-of-artificial-intelligence/amp) by The New Yorker
 ## AI and jobs
 
