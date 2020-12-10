@@ -36,3 +36,4 @@ reading materials regarding AI
 * [블리자드 “AI 덕분에 오버워치·히오스 악성 채팅 줄었다”](https://m.gamemeca.com/amp/view.php?gid=1648794)
 * https://blogs.nvidia.com/blog/2020/11/25/i-am-ai-retail-video/?ncid=so-twit-42042-vt23&linkId=100000021607620#cid=ix04_so-twit_en-us
 * [인공지능과 끝말잇기 대결](https://youtu.be/9HygBYFNaZA)
+* https://github.com/deepmind/dm_hard_eight
