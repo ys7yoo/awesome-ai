@@ -37,3 +37,5 @@ reading materials regarding AI
 * https://blogs.nvidia.com/blog/2020/11/25/i-am-ai-retail-video/?ncid=so-twit-42042-vt23&linkId=100000021607620#cid=ix04_so-twit_en-us
 * [인공지능과 끝말잇기 대결](https://youtu.be/9HygBYFNaZA)
 * https://github.com/deepmind/dm_hard_eight
+* [AI tools to detect harmful content](https://ai.facebook.com/blog/heres-how-were-using-ai-to-help-detect-misinformation/)
+
