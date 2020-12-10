@@ -10,6 +10,11 @@ reading materials regarding AI
 * [The Rise of Artificial Intelligence](https://www.newyorker.com/books/double-take/sunday-reading-the-rise-of-artificial-intelligence/amp) by The New Yorker
 
 ## AI and Jobs
+ * [삼성·LG·포스코 로봇직원 늘린다… "사람보다 20배 더 일하고, 스트레스도 받지 않아"](https://m.biz.chosun.com/news/article.amp.html?contid=2020091502877)
+ * [AI "공무원 25% 짐싸!" 외교부가 가장 위태롭다](https://mnews.joins.com/article/23888951?cloc=joongang-mhome-Group4#home)
+ * [김주하 AI 등장하고, 27세 메인앵커는 사표…아나운서, 어디로 가나](https://www.chosun.com/national/weekend/2020/10/10/MSWVZVODFFGOJKWT2YUPXXWZUU/)
+ * [KB의 실험… AI에 인사 맡겼더니, 인사불만이 사라졌다](https://www.chosun.com/economy/stock-finance/2020/10/05/E6TXF7CYAJEPTDKVWWLTPOOLVY/)
+
 
 ## AI and Law
 * [테크, 法 그리고 인간](http://it.chosun.com/m/svc/article.html?contid=2020080300309&utm_source=undefined&utm_medium=unknown&utm_campaign=itchosun)
