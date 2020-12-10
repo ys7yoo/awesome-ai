@@ -25,7 +25,7 @@ reading materials regarding AI
 
 ## AI and Reading
 * [Machines Beat Humans on a Reading Test. But Do They Understand?](https://www.quantamagazine.org/machines-beat-humans-on-a-reading-test-but-do-they-understand-20191017/) by Quantamagazine
-*
+* https://www.topbots.com/nlp-research-papers-2020/?utm_source=twitter&utm_medium=company_post&utm_campaign=nlp_research_2020
 
 ## Cool AI Applications
 * [emails](https://99percentinvisible.org/episode/youve-got-enron-mail/)
