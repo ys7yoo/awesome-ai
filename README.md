@@ -22,4 +22,4 @@ reading materials regarding AI
 
 ## Cool AI Applications
 * [Instagram explore](https://venturebeat.com/2019/11/25/facebook-details-the-ai-technology-behind-instagram-explore/)
-
+* [AI predicts future](https://worldin.economist.com/article/17521/edition2020artificial-intelligence-predicts-future)
