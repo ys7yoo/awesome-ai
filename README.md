@@ -115,3 +115,7 @@ https://www.technologyreview.com/s/612251/waymos-cars-drive-10-million-miles-a-d
 https://www.technologyreview.com/s/612897/this-is-why-ai-has-yet-to-reshape-most-businesses/
 * robot valet https://www.technologyreview.com/f/612841/this-robot-valet-will-soon-be-parking-your-car-at-the-airport/
 * https://www.sciencetimes.co.kr/news/2020년을-빛낸-10가지-유망기술/
+
+
+## Books
+* https://www.hpe.com/us/en/insights/articles/12-books-that-ai-researchers-are-reading-this-summer-1908.html
