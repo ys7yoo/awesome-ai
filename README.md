@@ -78,6 +78,7 @@ https://www.technologyreview.com/f/614739/ai-will-disrupt-white-collar-workers-t
 * Waymo’s cars drive 10 million miles a day in a perilous virtual world
 https://www.technologyreview.com/s/612251/waymos-cars-drive-10-million-miles-a-day-in-a-perilous-virtual-world/
 * https://www.technologyreview.com/s/612341/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/
+* [Uber, After Years of Trying, Is Handing Off Its Self-Driving Car Project](https://www.nytimes.com/2020/12/07/technology/uber-self-driving-car-project.html?referringSource=articleShare)
 
 ## AI and art
 * https://www.technologyreview.com/s/612913/a-philosopher-argues-that-an-ai-can-never-be-an-artist/
