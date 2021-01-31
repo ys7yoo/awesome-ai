@@ -17,6 +17,7 @@ reading materials regarding AI
 * [Can Artificial Intelligence “Think”?](https://www.forbes.com/sites/danielshapiro1/2019/10/23/can-artificial-intelligence-think/?sh=113bf4662d7c)
 * [WHAT WILL OUR SOCIETY LOOK LIKE WHEN ARTIFICIAL INTELLIGENCE IS EVERYWHERE?](https://www.smithsonianmag.com/innovation/artificial-intelligence-future-scenarios-180968403/)
 * [WITH MIND-READING AI, YOU WILL NEVER HAVE SECRETS AGAIN!](https://mindmatters.ai/2018/12/3-with-mind-reading-ai-you-will-never-have-secrets-again/)
+* [Google’s quantum bet on the future of AI—and what it means for humanity](https://www.fastcompany.com/90396213/google-quantum-supremacy-future-ai-humanity)
 
 ## AI and Future
 * https://www.businessinsider.com/how-ai-is-changing-everything-2019-7
@@ -123,6 +124,8 @@ https://www.technologyreview.com/s/612251/waymos-cars-drive-10-million-miles-a-d
 
 ## AI and finance
 * https://www2.deloitte.com/us/en/insights/industry/financial-services/artificial-intelligence-ai-financial-services-frontrunners.html
+* https://www.linnworks.com/blog/artificial-intelligence-in-ecommerce?hs_amp=true
+
 
 ## Cool AI Applications
 * [emails](https://99percentinvisible.org/episode/youve-got-enron-mail/)
