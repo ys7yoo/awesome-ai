@@ -49,6 +49,7 @@ https://www.technologyreview.com/f/614739/ai-will-disrupt-white-collar-workers-t
 
 
 ## AI and language
+* [If Computers Are So Smart, How Come They Can’t Read?](https://www.wired.com/story/adaptation-if-computers-are-so-smart-how-come-they-cant-read)
 * [Natural Language Processing — An Overview of Key Algorithms and Their Evolution](https://medium.com/abacus-ai/natural-language-processing-an-overview-of-key-algorithms-and-their-evolution-3588d2cef90f)
 * [Microsoft DeBERTa surpasses human performance on the SuperGLUE benchmark](https://www.microsoft.com/en-us/research/blog/microsoft-deberta-surpasses-human-performance-on-the-superglue-benchmark/?OCID=msr_blog_deberta_tw)
 * [Machines Beat Humans on a Reading Test. But Do They Understand?](https://www.quantamagazine.org/machines-beat-humans-on-a-reading-test-but-do-they-understand-20191017/) by Quantamagazine
