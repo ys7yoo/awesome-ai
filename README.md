@@ -11,7 +11,9 @@ reading materials regarding AI
 * [AI will supercharge science](https://worldin.economist.com/article/17385/edition2020demis-hassabis-predicts-ai-will-supercharge-science) by Demis Hassabis
 * [The Rise of Artificial Intelligence](https://www.newyorker.com/books/double-take/sunday-reading-the-rise-of-artificial-intelligence/amp) by The New Yorker
 
+
 ## AI and Jobs
+ * [美 MIT "AI와 로봇, 일자리 감소 아닌 증가 이끌 것"](https://www.hankyung.com/it/article/202011270803i)
  * https://www.technologyreview.com/f/612121/machines-will-do-more-work-than-humans-by-2025-says-the-wef/
  * [삼성·LG·포스코 로봇직원 늘린다… "사람보다 20배 더 일하고, 스트레스도 받지 않아"](https://m.biz.chosun.com/news/article.amp.html?contid=2020091502877)
  * [AI "공무원 25% 짐싸!" 외교부가 가장 위태롭다](https://mnews.joins.com/article/23888951?cloc=joongang-mhome-Group4#home)
@@ -23,8 +25,12 @@ reading materials regarding AI
  * https://www.technologyreview.com/f/612229/baidu-is-testing-neural-networks-that-can-match-job-seekers-to-jobs/
  * AI will disrupt white-collar workers the most, predicts a new report
 https://www.technologyreview.com/f/614739/ai-will-disrupt-white-collar-workers-the-most-predicts-a-new-report/
-* https://www.technologyreview.com/s/612277/ai-cant-replace-doctors-but-it-can-make-them-better/
+ * https://www.technologyreview.com/s/612277/ai-cant-replace-doctors-but-it-can-make-them-better/
 
+
+## AI and populations
+ * [코로나에 日 혼인 70년만 최대 감소…'AI 매칭' 까지 꺼냈다](https://mnews.joins.com/amparticle/23972633)
+ * [낮은 출산율은 정말 재앙일까?](https://m.pressian.com/m/pages/articles/273079?no=273079#0DKW)
 
 
 ## AI and education
