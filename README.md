@@ -15,13 +15,14 @@ reading materials regarding AI
 * https://amp.cnn.com/cnn/2019/07/15/perspectives/ai-reads-emotions/index.html
 * [Can Artificial Intelligence “Think”?](https://www.forbes.com/sites/danielshapiro1/2019/10/23/can-artificial-intelligence-think/?sh=113bf4662d7c)
 * [WHAT WILL OUR SOCIETY LOOK LIKE WHEN ARTIFICIAL INTELLIGENCE IS EVERYWHERE?](https://www.smithsonianmag.com/innovation/artificial-intelligence-future-scenarios-180968403/)
+* [WITH MIND-READING AI, YOU WILL NEVER HAVE SECRETS AGAIN!](https://mindmatters.ai/2018/12/3-with-mind-reading-ai-you-will-never-have-secrets-again/)
 
 ## AI and Future
 * https://www.businessinsider.com/how-ai-is-changing-everything-2019-7
 * [AI will supercharge science](https://worldin.economist.com/article/17385/edition2020demis-hassabis-predicts-ai-will-supercharge-science) by Demis Hassabis
 * [The Rise of Artificial Intelligence](https://www.newyorker.com/books/double-take/sunday-reading-the-rise-of-artificial-intelligence/amp) by The New Yorker
 * https://www.bbc.co.uk/news/amp/business-50255191
-
+* [Robots: friend or foe?](https://learnenglishteens.britishcouncil.org/skills/reading/advanced-c1-reading/robots-friend-or-foe)
 
 ## AI and Jobs
  * [Workplace automation: how AI is coming for your job](https://www.ft.com/content/c4bf787a-d4a0-11e9-a0bd-ab8ec6435630)
@@ -106,6 +107,7 @@ https://www.technologyreview.com/s/612251/waymos-cars-drive-10-million-miles-a-d
 * [How Artificial Intelligence Is Changing Health Care Delivery](https://catalyst.nejm.org/doi/full/10.1056/CAT.19.0699)
 * https://www.fiercebiotech.com/medtech/google-s-cancer-spotting-ai-outperforms-radiologists-reading-lung-ct-scans
 * https://www.ucsf.edu/news/2019/09/415406/artificial-intelligence-reads-chest-x-rays-approved-fda
+* [Artificial Intelligence Will Change Healthcare as We Know It](https://www.businessnewsdaily.com/15096-artificial-intelligence-in-healthcare.html)
 
 ## AI and forensic
 * [행동분석·얼굴인식 기술 도입… ‘마스크 쓴 범죄자’ 잡는 K-과학수사](https://m.biz.chosun.com/svc/article.html?sname=biz&contid=2021012202405)
