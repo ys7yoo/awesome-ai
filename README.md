@@ -50,6 +50,7 @@ https://www.technologyreview.com/f/614739/ai-will-disrupt-white-collar-workers-t
 * [AI, Democracy and Elections](https://youtu.be/_b-kXQo-KjY?list=PLpGHT1n4-mAv0KFPg0dZXOL7_qHUlxj2Z) from Stanford HAI 2019 Fall Conference
 * https://mitsloan.mit.edu/ideas-made-to-matter/why-finance-deploying-natural-language-processing
 * https://www.technologyreview.com/s/613010/why-ai-is-a-threat-to-democracyand-what-we-can-do-to-stop-it/
+* https://blog.deeplearning.ai/blog/the-batch-propagandists-lie-about-ai-language-models-grok-images-machines-triage-covid-cases-world-models-shrink
 
 ## AI and Reading
 * [Machines Beat Humans on a Reading Test. But Do They Understand?](https://www.quantamagazine.org/machines-beat-humans-on-a-reading-test-but-do-they-understand-20191017/) by Quantamagazine
