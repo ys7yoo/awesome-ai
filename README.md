@@ -135,6 +135,7 @@ https://www.technologyreview.com/s/612897/this-is-why-ai-has-yet-to-reshape-most
 * https://www.sciencetimes.co.kr/news/2020년을-빛낸-10가지-유망기술/
 * [3 Things AI Can Already Do for Your Company](https://hbr.org/2018/01/artificial-intelligence-for-the-real-world)
 * https://venturebeat.com/2019/09/11/how-ai-is-transforming-customer-reviews-into-crucial-business-intelligence-vb-live/amp/
+* https://emerj.com/machine-learning-that-learns-more-like-humans-an-ai-lip-reading-machine-and-more-this-week-in-artificial-intelligence-11-11-16/
 
 ## Books
 * http://i.stanford.edu/pub/cstr/reports/cs/tr/86/1093/CS-TR-86-1093.pdf
