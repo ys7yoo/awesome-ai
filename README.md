@@ -140,6 +140,7 @@ https://www.technologyreview.com/s/612897/this-is-why-ai-has-yet-to-reshape-most
 * https://www.kdnuggets.com/2019/11/10-free-must-read-books-ai.html
 * https://www.thereadinglists.com/most-important-books-on-artificial-intelligence/
 * https://www.chicagotribune.com/entertainment/books/ct-books-biblioracle-1110-20191104-yx36rnivkrfbdeohsd572bfyxi-story.html?outputType=amp
+* [Artificial Intelligence in Practice](https://www.amazon.co.uk/Artificial-Intelligence-Practice-Successful-Companies/dp/1119548217)
 
 ## Stats
 * https://blog.zoominfo.com/statistics-about-artificial-intelligence/
