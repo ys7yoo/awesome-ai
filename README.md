@@ -108,6 +108,7 @@ https://www.technologyreview.com/s/612251/waymos-cars-drive-10-million-miles-a-d
 * https://www.fiercebiotech.com/medtech/google-s-cancer-spotting-ai-outperforms-radiologists-reading-lung-ct-scans
 * https://www.ucsf.edu/news/2019/09/415406/artificial-intelligence-reads-chest-x-rays-approved-fda
 * [Artificial Intelligence Will Change Healthcare as We Know It](https://www.businessnewsdaily.com/15096-artificial-intelligence-in-healthcare.html)
+* https://www.sciencemag.org/news/2019/06/artificial-intelligence-could-revolutionize-medical-care-don-t-trust-it-read-your-x-ray
 
 ## AI and forensic
 * [행동분석·얼굴인식 기술 도입… ‘마스크 쓴 범죄자’ 잡는 K-과학수사](https://m.biz.chosun.com/svc/article.html?sname=biz&contid=2021012202405)
