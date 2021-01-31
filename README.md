@@ -2,6 +2,7 @@
 reading materials regarding AI
 
 ## What is AI?
+* https://www.britannica.com/technology/artificial-intelligence
 * [What it is and why it matters](https://www.sas.com/en_us/insights/analytics/what-is-artificial-intelligence.html) by sas
 * https://www.technologyreview.com/s/612404/is-this-ai-we-drew-you-a-flowchart-to-work-it-out/
 * https://www.technologyreview.com/f/612412/these-awful-ai-song-lyrics-show-us-how-hard-language-is-for-machines/
