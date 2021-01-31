@@ -95,6 +95,8 @@ https://www.technologyreview.com/s/612251/waymos-cars-drive-10-million-miles-a-d
 ## AI and ethics
 * https://www.chosun.com/opinion/journalist_view/2021/01/25/TRQUHSWSEVDAJBOHGU4H3SDSHY/
 
+## AI platforms
+* [Tensorflow vs. PyTorch](https://www.infoworld.com/article/3597904/why-enterprises-are-turning-from-tensorflow-to-pytorch.html)
 
 ## Cool AI Applications
 * [emails](https://99percentinvisible.org/episode/youve-got-enron-mail/)
