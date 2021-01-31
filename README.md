@@ -7,6 +7,7 @@ reading materials regarding AI
 * https://www.technologyreview.com/f/612412/these-awful-ai-song-lyrics-show-us-how-hard-language-is-for-machines/
 
 ## AI and humanity
+* https://futurism.com/ai-draws-decodes-brainwaves/amp
 * https://www.entrepreneur.com/amphtml/340207
 
 ## AI and Future
