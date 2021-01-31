@@ -7,8 +7,11 @@ reading materials regarding AI
 * https://www.technologyreview.com/f/612412/these-awful-ai-song-lyrics-show-us-how-hard-language-is-for-machines/
 
 ## AI and humanity
+* https://news.mit.edu/2019/computing-and-ai-humanistic-perspectives-0924
 * https://futurism.com/ai-draws-decodes-brainwaves/amp
 * https://www.entrepreneur.com/amphtml/340207
+* https://techcrunch.com/2019/10/06/an-interview-with-dr-stuart-russell-author-of-human-compatible-artificial-intelligence-and-the-problem-of-control/
+
 
 ## AI and Future
 * [AI will supercharge science](https://worldin.economist.com/article/17385/edition2020demis-hassabis-predicts-ai-will-supercharge-science) by Demis Hassabis
@@ -63,6 +66,7 @@ https://www.technologyreview.com/f/614739/ai-will-disrupt-white-collar-workers-t
 * https://www.technologyreview.com/s/612776/computer-science-reveals-why-this-headline-is-not-funny/
 * https://www.technologyreview.com/s/612726/this-algorithm-browses-wikipedia-to-auto-generate-textbooks/
 * https://www.technologyreview.com/f/613930/instagram-is-using-ai-to-stop-people-posting-abusive-comments/
+* https://blog.usejournal.com/homing-in-on-the-answer-a-novel-approach-to-ai-reading-comprehension-fd15a76afbf8
 
 ## AI and Law
 * https://www.technologyreview.com/f/612361/harvard-just-put-more-than-6-million-court-cases-online-to-give-legal-ai-a-boost/
@@ -126,3 +130,7 @@ https://www.technologyreview.com/s/612897/this-is-why-ai-has-yet-to-reshape-most
 * http://i.stanford.edu/pub/cstr/reports/cs/tr/86/1093/CS-TR-86-1093.pdf
 * https://www.hpe.com/us/en/insights/articles/12-books-that-ai-researchers-are-reading-this-summer-1908.html
 * https://www.kdnuggets.com/2019/11/10-free-must-read-books-ai.html
+
+
+## Stats
+* https://blog.zoominfo.com/statistics-about-artificial-intelligence/
