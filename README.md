@@ -38,7 +38,7 @@ reading materials regarding AI
  * AI will disrupt white-collar workers the most, predicts a new report
 https://www.technologyreview.com/f/614739/ai-will-disrupt-white-collar-workers-the-most-predicts-a-new-report/
  * https://www.technologyreview.com/s/612277/ai-cant-replace-doctors-but-it-can-make-them-better/
-
+ * [AI Is Coming for Your Favorite Menial Tasks](https://amp.theatlantic.com/amp/article/597625/)
 
 ## AI fighter
  * [AI 전투기](https://mnews.joins.com/article/23859924?cloc=joongang-mhome-Group5#home)
