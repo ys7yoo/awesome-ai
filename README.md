@@ -81,6 +81,10 @@ https://www.technologyreview.com/s/612251/waymos-cars-drive-10-million-miles-a-d
 * [행동분석·얼굴인식 기술 도입… ‘마스크 쓴 범죄자’ 잡는 K-과학수사](https://m.biz.chosun.com/svc/article.html?sname=biz&contid=2021012202405)
 * [아동학대 CCTV보는데 수천만~1억?](https://www.chosun.com/national/regional/2021/01/21/4YO5YKMTXFEJ7CTH27ORA7CKIY/?outputType=amp)
 
+## AI and ethics
+* https://www.chosun.com/opinion/journalist_view/2021/01/25/TRQUHSWSEVDAJBOHGU4H3SDSHY/
+
+
 ## Cool AI Applications
 * [emails](https://99percentinvisible.org/episode/youve-got-enron-mail/)
 * Instagram explore: [link1](https://venturebeat.com/2019/11/25/facebook-details-the-ai-technology-behind-instagram-explore/), [link2](https://ai.facebook.com/blog/powered-by-ai-instagrams-explore-recommender-system)
