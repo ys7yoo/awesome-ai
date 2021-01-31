@@ -31,7 +31,7 @@ https://www.technologyreview.com/f/614739/ai-will-disrupt-white-collar-workers-t
  * [AI 전투기](https://mnews.joins.com/article/23859924?cloc=joongang-mhome-Group5#home)
  * [](https://blog.deeplearning.ai/blog/the-batch-intelligent-agent-vs.-fighter-pilot-gan-for-pajama-zooming-when-ai-goes-wrong-multimodal-learning-for-medicine)
  * [alpha dogfight](https://blog.deeplearning.ai/blog/the-batch-students-protest-ai-predicted-exam-scores-autonomous-fighter-jet-outguns-humans-computer-vision-sees-race-robots-learn-from-experience)
- 
+ * https://www.chosun.com/international/2020/12/19/6VBGHCPIWVDBXFHBAYM576MTJM/
 
 ## AI and populations
  * [코로나에 日 혼인 70년만 최대 감소…'AI 매칭' 까지 꺼냈다](https://mnews.joins.com/amparticle/23972633)
