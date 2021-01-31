@@ -6,6 +6,7 @@ reading materials regarding AI
 * [What it is and why it matters](https://www.sas.com/en_us/insights/analytics/what-is-artificial-intelligence.html) by sas
 * https://www.technologyreview.com/s/612404/is-this-ai-we-drew-you-a-flowchart-to-work-it-out/
 * https://www.technologyreview.com/f/612412/these-awful-ai-song-lyrics-show-us-how-hard-language-is-for-machines/
+* https://mobile.abc.net.au/news/2017-08-07/explainer-what-is-artificial-intelligence/8771632
 
 ## AI and humanity
 * https://news.mit.edu/2019/computing-and-ai-humanistic-perspectives-0924
@@ -25,6 +26,8 @@ reading materials regarding AI
 * [The Rise of Artificial Intelligence](https://www.newyorker.com/books/double-take/sunday-reading-the-rise-of-artificial-intelligence/amp) by The New Yorker
 * https://www.bbc.co.uk/news/amp/business-50255191
 * [Robots: friend or foe?](https://learnenglishteens.britishcouncil.org/skills/reading/advanced-c1-reading/robots-friend-or-foe)
+* [How Artificial Intelligence Will Revolutionize Our Lives](https://api.nationalgeographic.com/distribution/public/amp/news/2015/10/151007-computers-artificial-intelligence-ai-robots-data-ngbooktalk)
+
 
 ## AI and Jobs
  * [Workplace automation: how AI is coming for your job](https://www.ft.com/content/c4bf787a-d4a0-11e9-a0bd-ab8ec6435630)
@@ -41,7 +44,8 @@ reading materials regarding AI
 https://www.technologyreview.com/f/614739/ai-will-disrupt-white-collar-workers-the-most-predicts-a-new-report/
  * https://www.technologyreview.com/s/612277/ai-cant-replace-doctors-but-it-can-make-them-better/
  * [AI Is Coming for Your Favorite Menial Tasks](https://amp.theatlantic.com/amp/article/597625/)
-
+ * [rtificial intelligence may disrupt many Kansas City jobs — and not the ones you think](https://amp.kansascity.com/news/business/article237539079.html)
+ 
 ## AI fighter
  * [AI 전투기](https://mnews.joins.com/article/23859924?cloc=joongang-mhome-Group5#home)
  * [](https://blog.deeplearning.ai/blog/the-batch-intelligent-agent-vs.-fighter-pilot-gan-for-pajama-zooming-when-ai-goes-wrong-multimodal-learning-for-medicine)
@@ -76,6 +80,8 @@ https://www.technologyreview.com/f/614739/ai-will-disrupt-white-collar-workers-t
 * https://www.technologyreview.com/s/612726/this-algorithm-browses-wikipedia-to-auto-generate-textbooks/
 * https://www.technologyreview.com/f/613930/instagram-is-using-ai-to-stop-people-posting-abusive-comments/
 * https://blog.usejournal.com/homing-in-on-the-answer-a-novel-approach-to-ai-reading-comprehension-fd15a76afbf8
+* https://www.insidehighered.com/news/2019/05/14/ai-summarizes-research-papers-could-have-useful-applications-academics
+
 
 ## AI and Law
 * https://www.technologyreview.com/f/612361/harvard-just-put-more-than-6-million-court-cases-online-to-give-legal-ai-a-boost/
@@ -111,6 +117,8 @@ https://www.technologyreview.com/s/612251/waymos-cars-drive-10-million-miles-a-d
 * https://www.ucsf.edu/news/2019/09/415406/artificial-intelligence-reads-chest-x-rays-approved-fda
 * [Artificial Intelligence Will Change Healthcare as We Know It](https://www.businessnewsdaily.com/15096-artificial-intelligence-in-healthcare.html)
 * https://www.sciencemag.org/news/2019/06/artificial-intelligence-could-revolutionize-medical-care-don-t-trust-it-read-your-x-ray
+* https://www.modernhealthcare.com/technology/artificial-intelligence-requires-human-intelligence
+* https://www.statnews.com/2019/08/28/artificial-intelligence-medicine-turing-test-obesity/
 
 ## AI and forensic
 * [행동분석·얼굴인식 기술 도입… ‘마스크 쓴 범죄자’ 잡는 K-과학수사](https://m.biz.chosun.com/svc/article.html?sname=biz&contid=2021012202405)
