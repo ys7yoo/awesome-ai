@@ -14,7 +14,7 @@ reading materials regarding AI
 * https://techcrunch.com/2019/10/06/an-interview-with-dr-stuart-russell-author-of-human-compatible-artificial-intelligence-and-the-problem-of-control/
 * https://amp.cnn.com/cnn/2019/07/15/perspectives/ai-reads-emotions/index.html
 * [Can Artificial Intelligence “Think”?](https://www.forbes.com/sites/danielshapiro1/2019/10/23/can-artificial-intelligence-think/?sh=113bf4662d7c)
-
+* [WHAT WILL OUR SOCIETY LOOK LIKE WHEN ARTIFICIAL INTELLIGENCE IS EVERYWHERE?](https://www.smithsonianmag.com/innovation/artificial-intelligence-future-scenarios-180968403/)
 
 ## AI and Future
 * https://www.businessinsider.com/how-ai-is-changing-everything-2019-7
@@ -134,6 +134,7 @@ https://www.technologyreview.com/s/612897/this-is-why-ai-has-yet-to-reshape-most
 * robot valet https://www.technologyreview.com/f/612841/this-robot-valet-will-soon-be-parking-your-car-at-the-airport/
 * https://www.sciencetimes.co.kr/news/2020년을-빛낸-10가지-유망기술/
 * [3 Things AI Can Already Do for Your Company](https://hbr.org/2018/01/artificial-intelligence-for-the-real-world)
+* https://venturebeat.com/2019/09/11/how-ai-is-transforming-customer-reviews-into-crucial-business-intelligence-vb-live/amp/
 
 ## Books
 * http://i.stanford.edu/pub/cstr/reports/cs/tr/86/1093/CS-TR-86-1093.pdf
