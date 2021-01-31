@@ -11,9 +11,12 @@ reading materials regarding AI
 * https://futurism.com/ai-draws-decodes-brainwaves/amp
 * https://www.entrepreneur.com/amphtml/340207
 * https://techcrunch.com/2019/10/06/an-interview-with-dr-stuart-russell-author-of-human-compatible-artificial-intelligence-and-the-problem-of-control/
+* https://amp.cnn.com/cnn/2019/07/15/perspectives/ai-reads-emotions/index.html
+* [Can Artificial Intelligence “Think”?](https://www.forbes.com/sites/danielshapiro1/2019/10/23/can-artificial-intelligence-think/?sh=113bf4662d7c)
 
 
 ## AI and Future
+* https://www.businessinsider.com/how-ai-is-changing-everything-2019-7
 * [AI will supercharge science](https://worldin.economist.com/article/17385/edition2020demis-hassabis-predicts-ai-will-supercharge-science) by Demis Hassabis
 * [The Rise of Artificial Intelligence](https://www.newyorker.com/books/double-take/sunday-reading-the-rise-of-artificial-intelligence/amp) by The New Yorker
 * https://www.bbc.co.uk/news/amp/business-50255191
@@ -97,6 +100,7 @@ https://www.technologyreview.com/s/612251/waymos-cars-drive-10-million-miles-a-d
 
 ## AI and healthcare
 * https://www.sciencetimes.co.kr/news/면역-회피하는-바이러스-언어-모델로-잡는다/
+* https://www.futurity.org/breast-tissue-biopsies-pathology-artificial-intelligence-2129552/
 
 ## AI and forensic
 * [행동분석·얼굴인식 기술 도입… ‘마스크 쓴 범죄자’ 잡는 K-과학수사](https://m.biz.chosun.com/svc/article.html?sname=biz&contid=2021012202405)
