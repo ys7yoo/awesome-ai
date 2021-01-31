@@ -1,4 +1,4 @@
-# awesome-ai
+# awesome AI
 reading materials regarding AI
 
 ## What is AI?
