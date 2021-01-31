@@ -121,6 +121,9 @@ https://www.technologyreview.com/s/612251/waymos-cars-drive-10-million-miles-a-d
 ## AI platforms
 * [Tensorflow vs. PyTorch](https://www.infoworld.com/article/3597904/why-enterprises-are-turning-from-tensorflow-to-pytorch.html)
 
+## AI and finance
+* https://www2.deloitte.com/us/en/insights/industry/financial-services/artificial-intelligence-ai-financial-services-frontrunners.html
+
 ## Cool AI Applications
 * [emails](https://99percentinvisible.org/episode/youve-got-enron-mail/)
 * Instagram explore: [link1](https://venturebeat.com/2019/11/25/facebook-details-the-ai-technology-behind-instagram-explore/), [link2](https://ai.facebook.com/blog/powered-by-ai-instagrams-explore-recommender-system)
