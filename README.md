@@ -51,6 +51,13 @@ https://www.technologyreview.com/f/614739/ai-will-disrupt-white-collar-workers-t
 ## AI and language
 * [Natural Language Processing — An Overview of Key Algorithms and Their Evolution](https://medium.com/abacus-ai/natural-language-processing-an-overview-of-key-algorithms-and-their-evolution-3588d2cef90f)
 * [Microsoft DeBERTa surpasses human performance on the SuperGLUE benchmark](https://www.microsoft.com/en-us/research/blog/microsoft-deberta-surpasses-human-performance-on-the-superglue-benchmark/?OCID=msr_blog_deberta_tw)
+* [Machines Beat Humans on a Reading Test. But Do They Understand?](https://www.quantamagazine.org/machines-beat-humans-on-a-reading-test-but-do-they-understand-20191017/) by Quantamagazine
+* https://www.topbots.com/nlp-research-papers-2020/?utm_source=twitter&utm_medium=company_post&utm_campaign=nlp_research_2020
+* https://www.technologyreview.com/s/612975/ai-natural-language-processing-explained/
+* https://www.technologyreview.com/s/612960/an-ai-tool-auto-generates-fake-news-bogus-tweets-and-plenty-of-gibberish/
+* https://www.technologyreview.com/s/612776/computer-science-reveals-why-this-headline-is-not-funny/
+* https://www.technologyreview.com/s/612726/this-algorithm-browses-wikipedia-to-auto-generate-textbooks/
+* https://www.technologyreview.com/f/613930/instagram-is-using-ai-to-stop-people-posting-abusive-comments/
 
 ## AI and Law
 * https://www.technologyreview.com/f/612361/harvard-just-put-more-than-6-million-court-cases-online-to-give-legal-ai-a-boost/
@@ -62,14 +69,7 @@ https://www.technologyreview.com/f/614739/ai-will-disrupt-white-collar-workers-t
 * https://www.technologyreview.com/s/613010/why-ai-is-a-threat-to-democracyand-what-we-can-do-to-stop-it/
 * https://blog.deeplearning.ai/blog/the-batch-propagandists-lie-about-ai-language-models-grok-images-machines-triage-covid-cases-world-models-shrink
 
-## AI and Reading
-* [Machines Beat Humans on a Reading Test. But Do They Understand?](https://www.quantamagazine.org/machines-beat-humans-on-a-reading-test-but-do-they-understand-20191017/) by Quantamagazine
-* https://www.topbots.com/nlp-research-papers-2020/?utm_source=twitter&utm_medium=company_post&utm_campaign=nlp_research_2020
-* https://www.technologyreview.com/s/612975/ai-natural-language-processing-explained/
-* https://www.technologyreview.com/s/612960/an-ai-tool-auto-generates-fake-news-bogus-tweets-and-plenty-of-gibberish/
-* https://www.technologyreview.com/s/612776/computer-science-reveals-why-this-headline-is-not-funny/
-* https://www.technologyreview.com/s/612726/this-algorithm-browses-wikipedia-to-auto-generate-textbooks/
-* https://www.technologyreview.com/f/613930/instagram-is-using-ai-to-stop-people-posting-abusive-comments/
+
 
 
 ## self-driving car
