@@ -6,6 +6,8 @@ reading materials regarding AI
 * https://www.technologyreview.com/s/612404/is-this-ai-we-drew-you-a-flowchart-to-work-it-out/
 * https://www.technologyreview.com/f/612412/these-awful-ai-song-lyrics-show-us-how-hard-language-is-for-machines/
 
+## AI and humanity
+* https://www.entrepreneur.com/amphtml/340207
 
 ## AI and Future
 * [AI will supercharge science](https://worldin.economist.com/article/17385/edition2020demis-hassabis-predicts-ai-will-supercharge-science) by Demis Hassabis
@@ -122,3 +124,4 @@ https://www.technologyreview.com/s/612897/this-is-why-ai-has-yet-to-reshape-most
 ## Books
 * http://i.stanford.edu/pub/cstr/reports/cs/tr/86/1093/CS-TR-86-1093.pdf
 * https://www.hpe.com/us/en/insights/articles/12-books-that-ai-researchers-are-reading-this-summer-1908.html
+* https://www.kdnuggets.com/2019/11/10-free-must-read-books-ai.html
