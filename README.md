@@ -120,4 +120,5 @@ https://www.technologyreview.com/s/612897/this-is-why-ai-has-yet-to-reshape-most
 
 
 ## Books
+* http://i.stanford.edu/pub/cstr/reports/cs/tr/86/1093/CS-TR-86-1093.pdf
 * https://www.hpe.com/us/en/insights/articles/12-books-that-ai-researchers-are-reading-this-summer-1908.html
