@@ -9,6 +9,7 @@ reading materials regarding AI
 ## AI and humanity
 * https://news.mit.edu/2019/computing-and-ai-humanistic-perspectives-0924
 * https://futurism.com/ai-draws-decodes-brainwaves/amp
+* https://www.theburnin.com/technology/ai-mind-reading-eeg-neurorobotics-russia-2019-11/
 * https://www.entrepreneur.com/amphtml/340207
 * https://techcrunch.com/2019/10/06/an-interview-with-dr-stuart-russell-author-of-human-compatible-artificial-intelligence-and-the-problem-of-control/
 * https://amp.cnn.com/cnn/2019/07/15/perspectives/ai-reads-emotions/index.html
@@ -23,6 +24,7 @@ reading materials regarding AI
 
 
 ## AI and Jobs
+ * [Workplace automation: how AI is coming for your job](https://www.ft.com/content/c4bf787a-d4a0-11e9-a0bd-ab8ec6435630)
  * [美 MIT "AI와 로봇, 일자리 감소 아닌 증가 이끌 것"](https://www.hankyung.com/it/article/202011270803i)
  * https://www.technologyreview.com/f/612121/machines-will-do-more-work-than-humans-by-2025-says-the-wef/
  * [삼성·LG·포스코 로봇직원 늘린다… "사람보다 20배 더 일하고, 스트레스도 받지 않아"](https://m.biz.chosun.com/news/article.amp.html?contid=2020091502877)
