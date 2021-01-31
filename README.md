@@ -20,13 +20,18 @@ reading materials regarding AI
  * [김주하 AI 등장하고, 27세 메인앵커는 사표…아나운서, 어디로 가나](https://www.chosun.com/national/weekend/2020/10/10/MSWVZVODFFGOJKWT2YUPXXWZUU/)
  * [KB의 실험… AI에 인사 맡겼더니, 인사불만이 사라졌다](https://www.chosun.com/economy/stock-finance/2020/10/05/E6TXF7CYAJEPTDKVWWLTPOOLVY/)
  * [바둑계에서 인공지능을 악용한 부정 사례](https://www.chosun.com/national/2020/11/20/2Y3WOD4S4JFNZEA43YQ3LIL7FA/)
- * [AI 전투기](https://mnews.joins.com/article/23859924?cloc=joongang-mhome-Group5#home)
  * [디지털 장의사](https://www.donga.com/news/Economy/article/all/20200813/102434602/1)
  * https://www.technologyreview.com/f/612229/baidu-is-testing-neural-networks-that-can-match-job-seekers-to-jobs/
  * AI will disrupt white-collar workers the most, predicts a new report
 https://www.technologyreview.com/f/614739/ai-will-disrupt-white-collar-workers-the-most-predicts-a-new-report/
  * https://www.technologyreview.com/s/612277/ai-cant-replace-doctors-but-it-can-make-them-better/
 
+
+## AI fighter
+ * [AI 전투기](https://mnews.joins.com/article/23859924?cloc=joongang-mhome-Group5#home)
+ * [](https://blog.deeplearning.ai/blog/the-batch-intelligent-agent-vs.-fighter-pilot-gan-for-pajama-zooming-when-ai-goes-wrong-multimodal-learning-for-medicine)
+ * [alpha dogfight](https://blog.deeplearning.ai/blog/the-batch-students-protest-ai-predicted-exam-scores-autonomous-fighter-jet-outguns-humans-computer-vision-sees-race-robots-learn-from-experience)
+ 
 
 ## AI and populations
  * [코로나에 日 혼인 70년만 최대 감소…'AI 매칭' 까지 꺼냈다](https://mnews.joins.com/amparticle/23972633)
@@ -41,6 +46,11 @@ https://www.technologyreview.com/f/614739/ai-will-disrupt-white-collar-workers-t
 * https://www.technologyreview.com/s/614057/china-squirrel-has-started-a-grand-experiment-in-ai-education-it-could-reshape-how-the/
 * https://www.technologyreview.com/s/613963/ai-vr-education-immersive-classroom-chinese-ibm/
 * https://www.technologyreview.com/s/613848/ai-africa-machine-learning-ibm-google/
+
+
+## AI and language
+* [Natural Language Processing — An Overview of Key Algorithms and Their Evolution](https://medium.com/abacus-ai/natural-language-processing-an-overview-of-key-algorithms-and-their-evolution-3588d2cef90f)
+* [Microsoft DeBERTa surpasses human performance on the SuperGLUE benchmark](https://www.microsoft.com/en-us/research/blog/microsoft-deberta-surpasses-human-performance-on-the-superglue-benchmark/?OCID=msr_blog_deberta_tw)
 
 ## AI and Law
 * https://www.technologyreview.com/f/612361/harvard-just-put-more-than-6-million-court-cases-online-to-give-legal-ai-a-boost/
