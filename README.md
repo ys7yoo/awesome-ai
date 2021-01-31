@@ -53,6 +53,7 @@ https://www.technologyreview.com/f/614739/ai-will-disrupt-white-collar-workers-t
 * [Natural Language Processing — An Overview of Key Algorithms and Their Evolution](https://medium.com/abacus-ai/natural-language-processing-an-overview-of-key-algorithms-and-their-evolution-3588d2cef90f)
 * [Microsoft DeBERTa surpasses human performance on the SuperGLUE benchmark](https://www.microsoft.com/en-us/research/blog/microsoft-deberta-surpasses-human-performance-on-the-superglue-benchmark/?OCID=msr_blog_deberta_tw)
 * [Machines Beat Humans on a Reading Test. But Do They Understand?](https://www.quantamagazine.org/machines-beat-humans-on-a-reading-test-but-do-they-understand-20191017/) by Quantamagazine
+* [AI is making literary leaps – now we need the rules to catch up](https://amp.theguardian.com/commentisfree/2019/nov/02/ai-artificial-intelligence-language-openai-cpt2-release)
 * https://www.topbots.com/nlp-research-papers-2020/?utm_source=twitter&utm_medium=company_post&utm_campaign=nlp_research_2020
 * https://www.technologyreview.com/s/612975/ai-natural-language-processing-explained/
 * https://www.technologyreview.com/s/612960/an-ai-tool-auto-generates-fake-news-bogus-tweets-and-plenty-of-gibberish/
