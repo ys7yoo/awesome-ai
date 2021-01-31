@@ -103,6 +103,7 @@ https://www.technologyreview.com/s/612251/waymos-cars-drive-10-million-miles-a-d
 ## AI and healthcare
 * https://www.sciencetimes.co.kr/news/면역-회피하는-바이러스-언어-모델로-잡는다/
 * https://www.futurity.org/breast-tissue-biopsies-pathology-artificial-intelligence-2129552/
+* [How Artificial Intelligence Is Changing Health Care Delivery](https://catalyst.nejm.org/doi/full/10.1056/CAT.19.0699)
 
 ## AI and forensic
 * [행동분석·얼굴인식 기술 도입… ‘마스크 쓴 범죄자’ 잡는 K-과학수사](https://m.biz.chosun.com/svc/article.html?sname=biz&contid=2021012202405)
