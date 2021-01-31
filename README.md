@@ -74,6 +74,9 @@ https://www.technologyreview.com/s/612251/waymos-cars-drive-10-million-miles-a-d
 * https://www.technologyreview.com/f/612348/a-controversial-artwork-created-by-ai-has-hauled-in-435000-at-auction/
 
 
+## AI and healthcare
+* https://www.sciencetimes.co.kr/news/면역-회피하는-바이러스-언어-모델로-잡는다/
+
 ## Cool AI Applications
 * [emails](https://99percentinvisible.org/episode/youve-got-enron-mail/)
 * Instagram explore: [link1](https://venturebeat.com/2019/11/25/facebook-details-the-ai-technology-behind-instagram-explore/), [link2](https://ai.facebook.com/blog/powered-by-ai-instagrams-explore-recommender-system)
